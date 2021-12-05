@@ -1,1 +1,2 @@
-# RecipeOrganizer
+# Recipe Organizer
+Organizes recipes.
